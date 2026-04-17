@@ -1,0 +1,7 @@
+D:\Github\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.exe.config
+D:\Github\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.exe
+D:\Github\School_Managment_System\School_Managment_System\bin\Debug\School_Managment_System.pdb
+D:\Github\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csprojResolveAssemblyReference.cache
+D:\Github\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.csproj.CoreCompileInputs.cache
+D:\Github\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.exe
+D:\Github\School_Managment_System\School_Managment_System\obj\Debug\School_Managment_System.pdb
